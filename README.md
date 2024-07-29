@@ -1,12 +1,17 @@
-- 👋 oi,eu me chamo maisa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### boas vindas ao meu perfil 💙
 
-<!---
-Maisa-16/Maisa-16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meu nome é  Maisa
+
+-Estou estudando na [Alura](https://www.alura.com.br)
+
+-Estou me desenvolvendo na linguagem JavaScript
+
+-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Você pode entrar em contato comigo 📫
+
+maisa.zaniskoski@escola.pr.gov.br
+
+@maisazaniskoski
+
+![](https://media1.tenor.com/m/nXNHCwBK_M4AAAAC/lazy-cat.gif)
